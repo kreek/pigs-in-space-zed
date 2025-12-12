@@ -1,0 +1,6 @@
+# Test files for syntax preview
+/test-files/
+
+# Editor
+.claude/
+CLAUDE.md
